@@ -1,0 +1,5 @@
+{
+  "name": "LocalScholar",
+  "description": "A privacy-first, offline academic paper manager that runs entirely in your browser using local analysis algorithms.",
+  "requestFramePermissions": []
+}
